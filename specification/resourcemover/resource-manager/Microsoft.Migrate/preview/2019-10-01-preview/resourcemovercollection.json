@@ -19,7 +19,7 @@
           "MoveCollections"
         ],
         "operationId": "MoveCollections_Create",
-        "description": "Creates or updates a move collection.",
+        "description": "Creates or updates a move collection1.",
         "consumes": [
           "application/json"
         ],
